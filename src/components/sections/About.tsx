@@ -5,7 +5,7 @@ import { useInView } from 'react-intersection-observer'
 import { GraduationCap, Briefcase, Award, Users } from 'lucide-react'
 
 const stats = [
-  { icon: GraduationCap, label: 'Semester', value: '5th', sub: 'FJWU – CS' },
+  { icon: GraduationCap, label: 'Semester', value: '6th', sub: 'FJWU – CS' },
   { icon: Briefcase, label: 'Internship', value: '2mo', sub: 'DeveloperHub' },
   { icon: Award, label: 'Top Score', value: '#1', sub: 'CS in FSc' },
   { icon: Users, label: 'Roles', value: '2', sub: 'Leadership' },
@@ -37,7 +37,7 @@ export default function About() {
           {/* Text */}
           <div className="space-y-6">
             {[
-              "I'm Kanwal Noor ul Ain — a Computer Science student at Fatima Jinnah Women University (FJWU), currently in my 5th semester. I'm passionate about building things for the web that are both functional and beautiful.",
+              "I'm Kanwal Noor ul Ain — a Computer Science student at Fatima Jinnah Women University (FJWU), currently in my 6th semester. I'm passionate about building things for the web that are both functional and beautiful.",
               "My journey into web development started with curiosity and grew into a real skill set through a 2-month frontend internship at DeveloperHub Cooperation, where I shipped responsive web interfaces on real-world projects.",
               "Beyond coding, I'm the General Secretary of the STEM Community at FJWU, where I organize tech workshops and coding events. I also serve as a Campus Ambassador for the AI Community of Pakistan, bridging students and industry opportunities.",
             ].map((para, i) => (
