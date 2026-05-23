@@ -105,7 +105,7 @@ export default function About() {
                 year: '2023 – Present',
                 degree: 'B.Sc. Computer Science',
                 institution: 'Fatima Jinnah Women University (FJWU)',
-                detail: '5th Semester · Data Structures, OOP, Web Dev, Algorithms, DBMS',
+                detail: '6th Semester · Data Structures, OOP, Web Dev, Algorithms, DBMS',
                 status: 'Current',
               },
               {
